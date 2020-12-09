@@ -1,4 +1,4 @@
- Hi there, I'am Anushka👋
+ Hi there, I'm Anushka......👋
 
 Here are some ideas to get you started:
 

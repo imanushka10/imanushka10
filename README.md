@@ -1,7 +1,5 @@
  Hi there, I'm Anushka......👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...my skills 
 - 🌱 I’m currently learning ...React.js
 - 👯 I’m looking to collaborate on ...React
